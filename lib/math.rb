@@ -23,8 +23,8 @@ def modulo(num1,num2)
   puts mod
 end
 
-def square_root
- puts Math.sqrt
+def square_root()
+ puts Math.sqrt()
   
  end
 
