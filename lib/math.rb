@@ -25,7 +25,7 @@ end
 
 def square_root(x)
  x = Math.sqrt(x)
- puts 
+ puts x
  end
 
 
