@@ -5,27 +5,26 @@ end
 
 def subtraction(num1,num2)
   sub = num1 - num2
-  puts sub
+  p sub
 end
 
 def division(num1,num2)
   div = num1 / num2
-  puts div
+  p div
 end
 
 def multiplication(num1,num2)
   times = num1 * num2
-  puts times
+  p times
 end
 
 def modulo(num1,num2)
   mod = num1 % num2
-  puts mod
+  p mod
 end
 
 def square_root(num)
  p Math.sqrt(num)
-  
  end
 
 
