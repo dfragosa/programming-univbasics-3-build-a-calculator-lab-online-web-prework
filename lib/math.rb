@@ -1,34 +1,34 @@
 def addition(num1,num2)
   add = num1 + num2
-  puts add
+  p add
 end
 
 def subtraction(num1,num2)
   sub = num1 - num2
-  puts sub
+  p sub
 end
 
 def division(num1,num2)
   div = num1 / num2
-  puts div
+  p div
 end
 
 def multiplication(num1,num2)
   times = num1 * num2
-  puts times
+  p times
 end
 
 def modulo(num1,num2)
   mod = num1 % num2
-  puts mod
+  p mod
 end
 
 def square_root(num)
- puts Math.sqrt() #need help. it wont let me pass in argument 
+ p Math.sqrt(num)
  end
 
 
-addition(5,4)
+addition(5,4) 
 subtraction(10,5)
 division(50,2)
 multiplication(4,30)
