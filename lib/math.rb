@@ -24,7 +24,7 @@ def modulo(num1,num2)
 end
 
 def square_root(num)
- num= Math.sqrt() #need help. it wont let me pass in argument 
+ num= Math.sqrt(num) #need help. it wont let me pass in argument 
  puts num
  end
 
