@@ -23,9 +23,9 @@ def modulo(num1,num2)
   puts mod
 end
 
-def square_root(num)
- num= Math.sqrt(num) #need help. it wont let me pass in argument 
- puts num
+def square_root(x2)
+ x2= Math.sqrt(x2) #need help. it wont let me pass in argument 
+ puts x2
  end
 
 
